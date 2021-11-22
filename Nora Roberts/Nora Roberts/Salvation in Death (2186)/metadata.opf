@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">482741b6-611c-4c26-9fa4-1b33172a7d26</dc:identifier>
+        <dc:title>Salvation in Death</dc:title>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">Nora Roberts</dc:creator>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">J. D. Robb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-04T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Ancient church rituals meet cutting- edge crime solving in the latest novel in the #1 *New York Times*–bestselling series that’s “*Law &amp; Order: SVU*—in the future” (*Entertainment Weekly*)**.
+
+
+
+*In the year 2060, sophisticated investigative tools can help catch a killer. But there are some questions even the most advanced technologies cannot answer.*
+
+
+
+ Ridley Pearson has praised J. D. Robb’s suspense as “taut” and “nerve-jangling.” Her latest thriller sets a new standard for suspense, as the priest at a Catholic funeral mass brings the chalice to his lips—and falls over dead.
+
+
+
+ When Detective Lieutenant Eve Dallas confirms that the consecrated wine contained potassium cyanide, she’s determined to solve the murder of Father Miguel Flores, despite her discomfort with her surroundings. It’s not the bodegas and pawnshops of East Harlem that bother her, though the neighborhood is a long way from the stone mansion she shares with her billionaire husband, Roarke. It’s all that holiness flying around at St. Christobal’s that makes her uneasy.
+
+
+
+ A search of the victim’s sparsely furnished room reveals little— except for a carefully hidden religious medal with a mysterious inscription, and a couple of underlined Bible passages. The autopsy reveals more: faint scars of knife wounds, a removed tattoo—and evidence of plastic surgery, suggesting that “Father Flores” may not have been the man his parishioners had thought. Now, as Eve pieces together clues that hint at gang connections and a deeply personal act of revenge, she believes she’s making progress on the case. Until a second murder—in front of an even larger crowd of worshippers—knocks the whole investigation sideways. And Eve is left to figure out who committed these unholy acts—and why.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399155222</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="In Death" name="calibre:series"/>
+        <meta content="27" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-14T17:04:30.120000+00:00" name="calibre:timestamp"/>
+        <meta content="Salvation in Death" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

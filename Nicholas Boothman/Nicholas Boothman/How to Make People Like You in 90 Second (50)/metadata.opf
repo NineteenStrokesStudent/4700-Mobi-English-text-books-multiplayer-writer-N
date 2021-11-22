@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9aea7a6-be41-40e9-b1ed-32cc4a753c21</dc:identifier>
+        <dc:title>How to Make People Like You in 90 Seconds Or Less</dc:title>
+        <dc:creator opf:file-as="Boothman, Nicholas" opf:role="aut">Nicholas Boothman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-18T17:11:56.556000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Whether selling, managing, negotiating, planning, collaborating, pitching, instructing-or on your knees with a marriage proposal-the secret of success is based on connecting with other people. Now that connection is infinitely easier to make through Nicholas Boothman's program of rapport by design.   
+
+HOW TO MAKE PEOPLE LIKE YOU IN 90 SECONDS OR LESS is the work of a master of Neuro-Linguistic Programming whose career is teaching corporations and groups the secrets of successful face-to-face communication. Aimed at establishing rapport-that stage between meeting and communicating-HOW TO MAKE PEOPLE LIKE YOU focuses on the concept of synchrony. It shows how to synchronize attitude, synchronize body language, and synchronize voice tone so that you instantly and imperceptibly become someone the other person likes. Reinforcing these easy-to-learn skills is knowing how to read the other person's sensory preferences-most of us are visual, some are kinesthetic, and a minority are auditory. So when you say "I see what you mean" to a visual person, you're really speaking his language. Along the way the book covers attitude, nervousness, words that open a conversation and words that shut it down, compliments, eye cues, the magic of opposites attracting, and more. It's how to make the best of the most important 90 seconds in any relationship, business or personal.</dc:description>
+        <dc:publisher>Workman Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780761119401</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-03T17:06:35.918000+00:00" name="calibre:timestamp"/>
+        <meta content="How to Make People Like You in 90 Seconds Or Less" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Self-Help&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

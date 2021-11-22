@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7795</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0c98b8a-f1cd-4cb9-a6a8-9c9849730b19</dc:identifier>
+        <dc:title>American-made: the enduring legacy of the WPA : when FDR put the nation to work</dc:title>
+        <dc:creator opf:file-as="Taylor, Nick" opf:role="aut">Nick Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-26T17:47:54.543000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Starred Review. Launched in 1935, at the bottom of the Great Depression, the Works Progress Administration (WPA) served as a linchpin of FDR's New Deal. Through the WPA, Roosevelt put millions of unemployed Americans to work on public construction projects, from dams and courthouses to parks and roads. The WPA's Federal Writers Project employed a host of artists and writers (among them Jackson Pollock, Saul Bellow, Ralph Ellison, Zora Neale Hurston and Studs Terkel); theater and musical artists also received funding. Taylor (_Ordinary Miracles: Life in a Small Church_) vividly and painstakingly paints the full story of the WPA from its inception to its shutdown by Congress in 1943, at which point the war boom in manufacturing had made it unnecessary. In an eloquent and balanced appraisal, Taylor not only chronicles the WPA's numerous triumphs (including New York's LaGuardia Airport) but also its failures, most notably graft and other chicanery at the local level. Taylor details as well the dicey intramural politics in Congress over which states and districts would get the largest slice of the WPA pie. All told, Taylor's volume makes for a splendid appreciation of the WPA with which to celebrate the upcoming 75th anniversary of the New Deal's beginnings in 1933. &lt;em&gt;(Mar. 4)&lt;/em&gt; &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;When Franklin Roosevelt assumed the presidency in March 1933, the rate of unemployment was approximately 25 percent. Staples of today’s government support system for the needy, such as unemployment compensation and food stamps, did not exist. Roosevelt had not campaigned as a big government “liberal,” but he and his brain trust felt compelled to do something and do it fast. One of the cornerstones of the New Deal was the WPA, or Works Progress Administration. It was a controversial program. Conservative economists and politicians viewed it as an unwarranted and wasteful intrusion of government into the economy But as Taylor illustrates in this comprehensive analysis of the program, the short-term results, over the eight-year life of the program, were enormous. Dams, roads, and bridges were built; on a smaller scale, WPA workers painted murals, served hot meals to the indigent, and even repaired toys. Perhaps more important, hope was provided for the hopeless. Taylor has written a passionate defense of a program that millions saw as a godsend. --Jay Freeman 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Bantam Book</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553802351</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:52.677000+00:00" name="calibre:timestamp"/>
+        <meta content="American-made: the enduring legacy of the WPA : when FDR put the nation to work" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Politics&quot;, &quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

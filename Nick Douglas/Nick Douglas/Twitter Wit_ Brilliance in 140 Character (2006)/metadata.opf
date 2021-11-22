@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2006</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5e6082e-4014-455c-8718-247db47cfec4</dc:identifier>
+        <dc:title>Twitter Wit: Brilliance in 140 Characters Or Less</dc:title>
+        <dc:creator opf:file-as="Douglas, Nick" opf:role="aut">Nick Douglas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-23T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+New York Magazine proclaims, "Twitter is the hot web company right now...the Next Big Thing;" the New York Times calls it "one of the fastest-growing phenomena on the Internet;" Time magazine claims "Twitter is on its way to becoming the next killer app;" and Newsweek notes that "Suddenly, it seems as though all the world′s a-twitter."  Since its creation in March 2006, Twitter has unleashed a torrent of self-expression from its six million members around the world, who send and read each others′ "tweets," messages up to 140 characters in length. Friends use the site to make plans; relatives use it to stay connected; politicians use it to lobby for votes; and humorists use it to perfect their craft. In fact, Twitter users have reinvented the classic medium of the witticism in a site where anyone can be a Dorothy Parker or an Oscar Wilde.  Twitter Wit is the first compilation of Twitter aphorisms, with submissions ranging from quotidian vignettes like "I bet in Sweden the Ikea instructions are in English" to bumper sticker-type quips like "I think the bird of love is the dove. My husband thinks it′s the swallow," and contributors ranging from celebrities like Shaquille O′Neal, Jimmy Fallon, Penn Jillette, John Cleese, and Steven Fry to regular people with previously unappreciated sharp tongues. Featuring a foreword by Twitter co-founder Biz Stone, this authorized anthology of the thousand most most clever and memorable "tweets" relates the diversity of human experience in hilarious bite-sized pieces.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061897276</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Non-fiction:Humor</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-15T20:35:46.473000+00:00" name="calibre:timestamp"/>
+        <meta content="Twitter Wit: Brilliance in 140 Characters Or Less" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;, &quot;Non-fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

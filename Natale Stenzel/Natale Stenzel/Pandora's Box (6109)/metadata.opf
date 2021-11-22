@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6dfa248f-065d-4e3d-89f0-4f3e9a9d2d64</dc:identifier>
+        <dc:title>Pandora's Box</dc:title>
+        <dc:creator opf:file-as="Stenzel, Natale" opf:role="aut">Natale Stenzel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-02T09:13:43.889000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+***Hope remains . . .***  
+
+  All Pandemina Dorothy Avery ever wanted was to be beautifully, blessedly normal, with a stable career and a love life leading to a white picket fence and a happily-ever-after. That seems impossible now. Penniless and parted from her unfaithful boyfriend, unfairly shunned by her coworkers, not even Mina's recent inheritance can help -- especially not when it amounts to a ten-pound rock box and guardianship of the horny, devious puca she released from inside. His name's Riordan, and he ain't no Harvey.  
+
+  What's a puca, you ask? A tricky faery-type, whose magic not only includes shape-shifting into a magnificent black stallion and a snarky mutt, but the ability to manipulate human perceptions. And Riordan is hardly shy of manipulations: Wasn't that why he was imprisoned in the first place? He seems set upon making Mina's life harder than ever, whether it be with Jonathon Teague, the handsome contractor who wants to work on more than her house, or Mina's penitent ex-boyfriend. But as Riordan's very existence proves, things are not always what they seem, and what stepped out of that box might be the key to her dreams.  
+
+  ***First book in a new series of funny paranormal romances by Natale Stenzel!***</dc:description>
+        <dc:publisher>Dorchester Publishing Company, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780505527523</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Fantasy</dc:subject>
+        <meta content="Pandora's Box" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-22T09:10:44.106000+00:00" name="calibre:timestamp"/>
+        <meta content="Pandora's Box" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

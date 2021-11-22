@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64ad0c7e-d9d6-4834-b8a6-16ea9679e1a2</dc:identifier>
+        <dc:title>Origin in death</dc:title>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">Nora Roberts</dc:creator>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">J. D. Robb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-12T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Set in 2059 in New York City, the number-one bestselling *In Death* series has given fans a searing glimpse into near-future law and order. Now, as scientists work to expand the limits of technology, Detective Eve Dallas tracks the cunning, cold-blooded killer of a father and son.    A pioneer of modern reconstructive and cosmetic surgery, Dr. Wilfred B. Icove, is found dead in his office-murdered in a chillingly efficient manner: one swift stab to the heart. Struck by the immaculate condition of the crime scene,  Dallas suspects a professional killing. Security disks show a stunningly beautiful woman calmly entering and leaving the building-the good doctor's final appointment.    Known as "Dr. Perfect," the saintly Icove devoted his life to his family and his work. His record is clean. Too clean for Dallas. She knows he was hiding something and suspects that his son-and successor-knows what it is. Then, like father, like son, the young Dr. Icove is killed . . . with the same deadly precision.    But who is the mystery woman-and what was her relationship with the good doctors?  While her husband, Roarke, works behind the scenes, Dallas follows her darkest instincts into the Icoves' pasts. What she discovers are men driven to create perfection-playing fast and loose with the laws of nature, the limits of science, and the morals of humanity.    *Origin in Death* proves once again the incredible appeal of Eve Dallas and the bestselling popularity of her creator. Whether writing as herself or as J. D. Robb, Nora Roberts continues to push the boundaries of suspense-and she takes delighted fans along for the ride.</dc:description>
+        <dc:publisher>G. P. Putnam's Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399152894</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="In Death" name="calibre:series"/>
+        <meta content="21" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-14T15:44:29.060000+00:00" name="calibre:timestamp"/>
+        <meta content="Origin in death" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

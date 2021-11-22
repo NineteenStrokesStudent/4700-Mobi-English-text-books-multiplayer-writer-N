@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fba6105-d69d-4c79-8f58-c4af8165e3e3</dc:identifier>
+        <dc:title>Fragile Things</dc:title>
+        <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-01T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+
+ A mysterious circus terrifies an audience for one extraordinary performance before disappearing into the night, taking one of the spectators along with it . . . 
+
+ In a novella set two years after the events of American Gods, Shadow pays a visit to an ancient Scottish mansion, and finds himself trapped in a game of murder and monsters . . .
+
+ In a Hugo Award-winning short story set in a strangely altered Victorian England, the great detective Sherlock Holmes must solve a most unsettling royal murder . . .
+
+ Two teenage boys crash a party and meet the girls of their dreams-;and nightmares . . .
+
+ In a Locus Award-winning tale, the members of an excusive epicurean club lament that they've eaten everything that can be eaten, with the exception of a legendary, rare, and exceedingly dangerous Egyptian bird . . . 
+
+ Such marvelous creations and more-;including a short story set in the world of The Matrix, and others set in the worlds of gothic fiction and children's fiction-;can be found in this extraordinary collection, which showcases Gaiman's storytelling brilliance as well as his terrifyingly entertaining dark sense of humor. By turns delightful, disturbing, and diverting, Fragile Things is a gift of literary enchantment from one of the most unique writers of our time.</dc:description>
+        <dc:publisher>William Morrow</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060515225</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Neil Gaiman Short Stories" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-16T07:56:05.876000+00:00" name="calibre:timestamp"/>
+        <meta content="Fragile Things" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

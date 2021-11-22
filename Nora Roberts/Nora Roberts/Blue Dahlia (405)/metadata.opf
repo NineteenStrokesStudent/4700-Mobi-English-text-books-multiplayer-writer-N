@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13864da5-1eb0-46d5-a275-f2d57045de97</dc:identifier>
+        <dc:title>Blue Dahlia</dc:title>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">Nora Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-25T10:05:03.612000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+From #1 *New York Times* bestselling author Nora Roberts comes the first novel in the new *In the Garden* trilogy. Against the backdrop of a house steeped in history and a thriving new gardening business, three women unearth the memories of the past and uncover a dangerous secret-finding in each other the courage to take chances and embrace the future.    Stella has a passion for planning that keeps her from taking too many risks.  But when she opens her heart to a new love,   she discovers that she will fight to the death to protect what's hers.     Trying to escape the ghosts of the past, young widow Stella Rothchild, along with her two energetic little boys, has moved back to her roots in southern Tennessee-and into her new life at Harper House and In the Garden nursery. She isn't intimidated by the house-nor its mistress, local legend Roz Harper. Despite a reputation for being difficult, Roz has been nothing but kind to Stella, offering her a comfortable new place to live and a challenging new job as manager of the flourishing nursery. As Stella settles comfortably into her new life, she finds a nurturing friendship with Roz and with expectant mother Hayley. And she discovers a fierce attraction with ruggedly handsome landscaper Logan Kitridge    But someone isn't happy about the budding romance...the Harper Bride. As the women dig into the history of Harper House, they discover that grief and rage have kept the Bride's spirit alive long past her death. And now, she will do anything to destroy the passion that Logan and Stella share...</dc:description>
+        <dc:publisher>Jove</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780515138559</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="In the Garden Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-23T10:01:45.449000+00:00" name="calibre:timestamp"/>
+        <meta content="Blue Dahlia" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

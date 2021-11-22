@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bca8bc0-a7f2-4673-b478-d5d847979ef7</dc:identifier>
+        <dc:title>The Unit</dc:title>
+        <dc:creator opf:file-as="Holmqvist, Ninni &amp; Delargy, Marlaine" opf:role="aut">Ninni Holmqvist</dc:creator>
+        <dc:creator opf:file-as="Holmqvist, Ninni &amp; Delargy, Marlaine" opf:role="aut">Marlaine Delargy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-09T08:30:51.825000+00:00</dc:date>
+        <dc:description>SUMMARY:
+One day in early spring, Dorrit Weger is checked into the Second Reserve Bank Unit for biological material. She is promised a nicely furnished apartment inside the Unit, where she will make new friends, enjoy the state of the art recreation facilities, and live the few remaining days of her life in comfort with people who are just like her. Here, women over the age of fifty and men over sixty–single, childless, and without jobs in progressive industries–are sequestered for their final few years; they are considered outsiders. In the Unit they are expected to contribute themselves for drug and psychological testing, and ultimately donate their organs, little by little, until the final donation. Despite the ruthless nature of this practice, the ethos of this near-future society and the Unit is to take care of others, and Dorrit finds herself living under very pleasant conditions: well-housed, well-fed, and well-attended. She is resigned to her fate and discovers her days there to be rather consoling and peaceful. But when she meets a man inside the Unit and falls in love, the extraordinary becomes a reality and life suddenly turns unbearable. Dorrit is faced with compliance or escape, and…well, then what?THE UNIT is a gripping exploration of a society in the throes of an experiment, in which the “dispensable” ones are convinced under gentle coercion of the importance of sacrificing for the “necessary” ones. Ninni Holmqvist has created a debut novel of humor, sorrow, and rage about love, the close bonds of friendship, and about a cynical, utilitarian way of thinking disguised as care.</dc:description>
+        <dc:publisher>Other Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781590513132</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-29T08:28:04.097000+00:00" name="calibre:timestamp"/>
+        <meta content="Unit, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

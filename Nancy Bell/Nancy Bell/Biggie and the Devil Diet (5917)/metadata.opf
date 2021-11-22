@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79150788-fe6c-43e3-8901-e541db05c300</dc:identifier>
+        <dc:title>Biggie and the Devil Diet</dc:title>
+        <dc:creator opf:file-as="Bell, Nancy" opf:role="aut">Nancy Bell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-22T21:22:56.855000+00:00</dc:date>
+        <dc:description>SUMMARY:
+02 Biggie is back! Nancy Bell returns with another delicious installment in her series of rural Texas mysteries featuring local doyen Biggie Weatherford as amateur detective. Once again, young J.R. faithfully narrates the humorous exploits of Biggie, his grandmother. Filled with plenty of quirky characters and down-home Texas flair, Bell's stories continue to delight. An old friend of Biggie comes back to Job's Crossing. Rex Barnwell and his young wife have returned to convert his father's ranch into a retreat for overweight teenage girls, and Biggie is forced to reveal a secret that she has always kept from J.R. Not long after this startling revelation, Rex is murdered. Knowing full well that he won't be able to keep Biggie away, the Texas Ranger in charge of the case enlists her help.While Biggie pursues her investigation, J.R. has his hands full with troubles of his own. These troubles don't involve any murders-though it might be easier for J.R. if they did. As an extra treat for the reader, Willie Mae shares her recipe for King Ranch Casserole. Biggie is back! Nancy Bell returns with another delicious installment in her series of rural Texas mysteries featuring local doyen Biggie Weatherford as amateur detective. Once again, young J.R. faithfully narrates the humorous exploits of Biggie, his grandmother. Filled with plenty of quirky characters and down-home Texas flair, Bell's stories continue to delight. An old friend of Biggie comes back to Job's Crossing. Rex Barnwell and his young wife have returned to convert his father's ranch into a retreat for overweight teenage girls, and Biggie is forced to reveal a secret that she has always kept from J.R. Not long after this startling revelation, Rex is murdered. Knowing full well that he won't be able to keep Biggie away, the Texas Ranger in charge of the case enlists her help.While Biggie pursues her investigation, J.R. has his hands full with troubles of his own. These troubles don't involve any murders-though it might be easier for J.R. if they did. As an extra treat for the reader, Willie Mae shares her recipe for King Ranch Casserole.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312301842</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Biggie Weatherford Mysteries" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-14T21:19:06.170000+00:00" name="calibre:timestamp"/>
+        <meta content="Biggie and the Devil Diet" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebec1e73-e089-4ae3-86ce-ac4619442c99</dc:identifier>
+        <dc:title>Born in Death</dc:title>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">Nora Roberts</dc:creator>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">J. D. Robb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-15T20:43:32.982000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Eve Dallas has a grisly double homicide to solve when two young lovers-both employees of the same prestigious accounting firm-are brutally killed on the same night. It doesn't leave Eve a lot of leftover time to put together a baby shower for her buddy Mavis, but that's supposedly what friends are for.    Now Mavis needs another favor. Tandy Willowby, one of the moms-to-be in Mavis's birthing class, didn't show up for the shower. A recent emigrant from London, Tandy has few friends in New York, and no family-and she was really looking forward to the party. And when Eve enters Tandy's apartment and finds a gift for Mavis's shower wrapped and ready on the table-and a packed bag for the hospital still on the floor next to it-tingling runs up and down her spine.    Normally, such a case would be turned over to Missing Persons. But Mavis wants no one else on the job but Eve-and Eve can't say no. She'll have to track Tandy down while simultaneously unearthing the deals and double-crosses hidden in the files of some of the city's richest and most secretive citizens, in a race against this particularly vicious killer. Luckily, her multimillionaire husband Roarke's expertise comes in handy with the number crunching. But as he mines the crucial data that will break the case wide open, Eve faces an all too real danger in the world of flesh and blood.</dc:description>
+        <dc:publisher>Christian Large Print</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594132254</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="In Death" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-14T16:29:07.304000+00:00" name="calibre:timestamp"/>
+        <meta content="Born in Death" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6078</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfd28e52-bc2a-4bab-a89d-9236be1d3647</dc:identifier>
+        <dc:title>Yes!: 50 Scientifically Proven Ways to Be Persuasive</dc:title>
+        <dc:creator opf:file-as="Goldstein, Noah J. &amp; Martin, Steve J. &amp; Cialdini, Robert B." opf:role="aut">Noah J. Goldstein</dc:creator>
+        <dc:creator opf:file-as="Goldstein, Noah J. &amp; Martin, Steve J. &amp; Cialdini, Robert B." opf:role="aut">Steve J. Martin</dc:creator>
+        <dc:creator opf:file-as="Goldstein, Noah J. &amp; Martin, Steve J. &amp; Cialdini, Robert B." opf:role="aut">Robert B. Cialdini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-10T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Small changes can make a big difference in your powers of persuasion**
+
+What one word can you start using today to increase your persuasiveness by more than fifty percent?
+
+Which item of stationery can dramatically increase people's responses to your requests? 
+
+How can you win over your rivals by inconveniencing them? 
+
+Why does knowing that so many dentists are named Dennis improve your persuasive prowess? 
+
+Every day we face the challenge of persuading others to do what we want. But what makes people say yes to our requests? Persuasion is not only an art, it is also a science, and researchers who study it have uncovered a series of hidden rules for moving people in your direction. Based on more than sixty years of research into the psychology of persuasion, *Yes!* reveals fifty simple but remarkably effective strategies that will make you much more persuasive at work and in your personal life, too.
+
+Cowritten by the world's most quoted expert on influence, Professor Robert Cialdini, *Yes!* presents dozens of surprising discoveries from the science of persuasion in short, enjoyable, and insightful chapters that you can apply immediately to become a more effective persuader. Why did a sign pointing out the problem of vandalism in the Petrified Forest National Park actually *increase* the theft of pieces of petrified wood? Why did sales of jam multiply tenfold when consumers were offered many *fewer* flavors? Why did people prefer a Mercedes immediately after giving reasons why they prefer a BMW? What simple message on cards left in hotel rooms greatly increased the number of people who behaved in environmentally friendly ways? 
+
+Often counterintuitive, the findings presented in *Yes!* will steer you away from common pitfalls while empowering you with little known but proven wisdom.
+
+Whether you are in advertising, marketing, management, on sales, or just curious about how to be more influential in everyday life, *Yes!* shows how making small, scientifically proven changes to your approach can have a dramatic effect on your persuasive powers.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416570967</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-20T09:37:11.245000+00:00" name="calibre:timestamp"/>
+        <meta content="Yes!: 50 Scientifically Proven Ways to Be Persuasive" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Self-Help&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

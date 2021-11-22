@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7875</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c778007-43b8-4b6f-b54c-cee2df931827</dc:identifier>
+        <dc:title>The Mentor Leader: Secrets to Building People and Teams That Win Consistently</dc:title>
+        <dc:creator opf:file-as="Whitaker, Nathan" opf:role="aut">Nathan Whitaker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-03T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;“Your only job is to help your players be better.” That single idea had a huge impact on Tony Dungy when he heard it from one of his earliest mentors, and it led him to develop the successful leadership style so admired by players and coaches throughout the NFL. Now, a storied career and a Super Bowl victory later, Tony Dungy is sharing his unique leadership philosophy with you. In &lt;em&gt;The Mentor Leader&lt;/em&gt;, Tony reveals what propelled him to the top of his profession and shows how you can apply the same approach to virtually any area of your life. In the process, you’ll learn the seven keys of mentoring leadership—and why they’re so effective; why mentor leadership brings out the best in people; how a mentor leader recovers from mistakes and handles team discipline; and the secret to getting people to follow you and do their best for you without intimidation tactics. As a son, a football player, and a winning coach, Tony has always learned from others on his path to success. Now you can learn to succeed for your team, family, or organization while living out your values—by becoming a mentor leader. &lt;/p&gt;</dc:description>
+        <dc:publisher>TYNDALE HOUSE</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781414338040</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-05T06:23:16.007000+00:00" name="calibre:timestamp"/>
+        <meta content="Mentor Leader: Secrets to Building People and Teams That Win Consistently, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Self-Help&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f2c2b5c-ddd9-4f73-af6d-e7ce25372e8d</dc:identifier>
+        <dc:title>Memory in death</dc:title>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">Nora Roberts</dc:creator>
+        <dc:creator opf:file-as="Roberts, Nora" opf:role="aut">J. D. Robb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-24T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The #1 *New York Times*-bestselling author of *Survivor in Death* has Lieutenant Eve Dallas walking a tightrope between her professional duties and her private demons.    Eve Dallas is one tough cop. She's got no problem dealing with a holiday reveler in a red suit who plunges thirty-seven stories and gives new meaning to the term "sidewalk Santa." But when she gets back to the station and Trudy Lombard shows up, it's all Eve can do to hold it together. Instantly, she's thrown back into the past, to the days when she was a vulnerable, traumatized girl-trapped in foster care with the twisted woman who now sits in front of her, smiling.    Trudy claims she just wanted to see how Eve was doing. But Eve's husband, Roarke, suspects otherwise-and his suspicions prove correct when Trudy arrives at his office, demanding money in exchange for keeping the ugly details of his wife's childhood a secret. Barely restraining himself, Roarke shows her the door-and makes it clear that she'd be wise to get out of New York and never bother him or his wife again.    But just a few days later, Trudy's found on the floor of her hotel room, a mess of bruises and blood. A cop to the core, Eve is determined to solve the case, if only for the sake of Trudy's bereaved son. Unfortunately, Eve is not the only one to have suffered at this woman's hands, and she and Roarke will follow a circuitous, dangerous path to find out who turned this victimizer into a victim.</dc:description>
+        <dc:publisher>G.P. Putnam's Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399153280</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="In Death" name="calibre:series"/>
+        <meta content="22" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-14T15:54:50.840000+00:00" name="calibre:timestamp"/>
+        <meta content="Memory in death" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

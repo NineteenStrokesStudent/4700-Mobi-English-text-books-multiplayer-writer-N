@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3098</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13b4911e-2fb6-45e3-9c92-cb39831af248</dc:identifier>
+        <dc:title>Voluntary Madness: My Year Lost and Found in the Loony Bin</dc:title>
+        <dc:creator opf:file-as="Vincent, Norah" opf:role="aut">Norah Vincent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-29T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**The journalist who famously lived as a man commits herself- literally**
+
+
+
+Norah Vincent's *New York Times* bestselling book, *Self-Made Man*, ended on a harrowing note. Suffering from severe depression after her eighteen months living disguised as a man, Vincent felt she was a danger to herself. On the advice of her psychologist she committed herself to a mental institution. Out of this raw and overwhelming experience came the idea for her next book. She decided to get healthy and to study the effect of treatment on the depressed and insane "in the bin," as she calls it.
+
+
+
+ Vincent's journey takes her from a big city hospital to a facility in the Midwest and finally to an upscale retreat down south, as she analyzes the impact of institutionalization on the unwell, the tyranny of drugs-as-treatment, and the dysfunctional dynamic between caregivers and patients. Vincent applies brilliant insight as she exposes her personal struggle with depression and explores the range of people, caregivers, and methodologies that guide these strange, often scary, and bizarre environments. Eye opening, emotionally wrenching, and at times very funny, *Voluntary Madness* is a riveting work that exposes the state of mental healthcare in America from the inside out.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670019717</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T07:08:40.156000+00:00" name="calibre:timestamp"/>
+        <meta content="Voluntary Madness: My Year Lost and Found in the Loony Bin" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

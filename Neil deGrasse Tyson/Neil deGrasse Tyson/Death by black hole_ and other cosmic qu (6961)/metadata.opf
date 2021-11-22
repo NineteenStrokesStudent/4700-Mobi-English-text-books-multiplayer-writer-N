@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6906cc42-3052-4dad-a6b4-580078597e37</dc:identifier>
+        <dc:title>Death by black hole: and other cosmic quandaries</dc:title>
+        <dc:creator opf:file-as="Tyson, Neil deGrasse" opf:role="aut">Neil deGrasse Tyson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-16T09:35:48.523000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+A vibrant collection of essays on the cosmos from the nation's best-known astrophysicist. “One of today’s best popularizers of science.”—Kirkus  Reviews.  Loyal readers of the monthly "Universe" essays in Natural History magazine have long recognized Neil deGrasse Tyson's talent for guiding them through the mysteries of the cosmos with stunning clarity and almost childlike enthusiasm. Here, Tyson compiles his favorite essays across a myriad of cosmic topics. The title essay introduces readers to the physics of black holes by explaining the gory details of what would happen to your body if you fell into one. "Holy Wars" examines the needless friction between science and religion in the context of historical conflicts. "The Search for Life in the Universe" explores astral life from the frontiers of astrobiology. And "Hollywood Nights" assails the movie industry's feeble efforts to get its night skies right.    Known for his ability to blend content, accessibility, and humor, Tyson is a natural teacher who simplifies some of the most complex concepts in astrophysics while simultaneously sharing his infectious excitement about our universe.</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393062243</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-02T09:32:45.666000+00:00" name="calibre:timestamp"/>
+        <meta content="Death by black hole: and other cosmic quandaries" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
